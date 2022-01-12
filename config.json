@@ -1,0 +1,6 @@
+{
+    "prefix": "!",
+    "token": "INSERT DISCORD BOT TOKEN HERE",
+    "clientId": "INSERT DISCORD BOT ID HERE",
+    "guildId": "INSERT DISCORD SERVER ID HERE"
+  }

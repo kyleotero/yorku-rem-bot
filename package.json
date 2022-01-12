@@ -1,0 +1,13 @@
+{
+    "name": "test-monitor",
+    "version": "1.0.0",
+    "description": "monitor for drivetest site",
+    "main": "bot.js",
+    "author": "kyle otero",
+    "dependencies": { 
+      "discord.js": "https://github.com/discordjs/discord.js/"
+    },
+    "engines": {
+      "node": "14.x"
+    }
+  }
