@@ -104,7 +104,7 @@ async function run() {
         enrolled = true;
       }
       await page.click('[type="submit"]');
-      await page.waitForTimeout(300000);
+      await page.waitForTimeout(1800000);
     }
   } while (enrolled == false);
 }
